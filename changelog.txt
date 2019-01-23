@@ -1,3 +1,17 @@
+v16:
+- Fix html footer
+- Update icerbox.com
+v15:
+- Update 1fichier.com
+- Fix icerbox.com
+- Update class.php
+v14:
+- Upgrade to vinaget 2.7.0 rev.94
+v13:
+- Remove died hosts
+- Update chiasenhac.vn, hitfile.net, datafile.com
+- Restyle all code hosts
+- Support prefix domain host
 v12:
 - Update prefiles.com
 v11:
@@ -38,7 +52,7 @@ v4:
 - Added function not delete account die in menu check account
 - Fixed non-static class in class.php
 - Added prefiles.com, filejoker.net
-- Change to version 3.3 LTSB
+- Change to version 3.3 LTS
 v3:
 - Fixed overflow table admin cookie, account, checkacc
 - Updated alfafile.net, filefactory.com, depositfiles.com, yunfile.com, katfile.com, catshare.net, turbobit.net, rapidgator.net
